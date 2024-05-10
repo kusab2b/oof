@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+}
+.img1{
+    width: 469px;
+    height: 920px;
+    position: absolute;
+}
+div{
+    width: 340px;
+    height: 372px;
+    border: 1px solid;
+    margin-left: 700px;
+    margin-top: 250px;
+    position: absolute;
+}
